@@ -2,13 +2,10 @@
 
 HOJ在线判题系统
 
-## 在线地址
-
-
 
 ## HOJ前端仓库
 
-https://github.com/haciii1022/hoj-frontend)
+https://github.com/haciii1022/hoj-frontend
 
 ## HOJ后端仓库
 
